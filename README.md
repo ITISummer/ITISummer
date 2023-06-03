@@ -1,39 +1,32 @@
-### Hi there 👋
+### Hi there 👋 
+### This is Summer Lv!
+- 🌱 I’m currently learning Bigdata
 
-<!--
-**ITISummer/ITISummer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ITISummer)
 
-Here are some ideas to get you started:
+Welcome to my Github page! I am SummerLv!!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
-# My GitHub Stats
 
-[![ITISummer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ITISummer&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+#### 🌱 Things I am currently working on: 
+- Finish my self study on Bigdata.
+- Taking online courses about Bigdata, Scala and Python. 
 
-# My Readme Card
+#### :computer: Programming languages and tools: 
+<p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ITISummer&repo=TrafficSystem&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-official.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+</p>
 
-# My Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITISummer)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- # My Wakatime Stats
-
-[![ITISummer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ITISummer)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- 
-<a href="https://github.com/ITISummer/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ITISummer&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/ITISummer/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ITISummer&repo=convoychat" />
-</a> -->
